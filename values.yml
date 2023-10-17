@@ -1,3 +1,4 @@
+#test PR
 myRepo:
   gitProvider: my_github
   path: haizafrog/jfrog-pipelines-hw
